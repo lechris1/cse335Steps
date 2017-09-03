@@ -1,7 +1,7 @@
 /**
 * \file Step1.cpp
 *
-* \author Chris Le
+* \author Christopher Le
 */
 
 #include "stdafx.h"

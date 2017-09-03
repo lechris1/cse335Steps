@@ -1,7 +1,7 @@
 /**
 * \file Animal.h
 *
-* \author Chris Le
+* \author Christopher Le
 *
 * Class that describes an animal.
 */

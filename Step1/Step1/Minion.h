@@ -1,7 +1,7 @@
 /**
 * \file Chicken.h
 *
-* \author Chris Le
+* \author Christopher Le
 *
 * Class that describes a minion.
 */

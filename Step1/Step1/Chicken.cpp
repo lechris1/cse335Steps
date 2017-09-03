@@ -1,7 +1,7 @@
 /**
 * \file Chicken.cpp
 *
-* \author Enter_your_name_here
+* \author Christopher Le
 */
 
 #include "stdafx.h"

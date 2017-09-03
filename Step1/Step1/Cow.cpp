@@ -1,7 +1,7 @@
 /**
  * \file Cow.cpp
  *
- * \author Chris Le
+ * \author Christopher Le
  */
 
 #include "stdafx.h"
