@@ -1,5 +1,5 @@
 /**
-* \file Cow.cpp
+* \file Minion.cpp
 *
 * \author Christopher Le
 */

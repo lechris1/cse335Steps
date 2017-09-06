@@ -1,5 +1,5 @@
 /**
-* \file Cow.cpp
+* \file Animal.cpp
 *
 * \author Christopher Le
 */
@@ -19,4 +19,14 @@ CAnimal::CAnimal()
 */
 CAnimal::~CAnimal()
 {
+}
+
+/** Obtain the number of eyes for an animal.
+*
+* \returns 2
+*/
+int CAnimal::NumEyes()
+{
+	const int NumberOfEyes = 2;
+	return NumberOfEyes;
 }

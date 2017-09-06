@@ -1,5 +1,5 @@
 /**
-* \file Chicken.h
+* \file Minion.h
 *
 * \author Christopher Le
 *

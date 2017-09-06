@@ -34,7 +34,7 @@ CFarm::~CFarm()
 
 /** Add an animal to the farm inventory.
 *
-* \param cow A cow to add to the inventory
+* \param animal A cow to add to the inventory
 */
 void CFarm::AddAnimal(CAnimal *animal)
 {
@@ -46,6 +46,7 @@ void CFarm::AddAnimal(CAnimal *animal)
 */
 void CFarm::DisplayInventory()
 {
+	// Iterate over all animals and display each
 	for (auto animal : mInventory)
 	{
 		animal->DisplayAnimal();
@@ -62,6 +63,7 @@ void CFarm::DisplayInventory()
 int CFarm::CountEyes()
 {
 	int totalEyes = 0;
+	// Iterate over all animals and count their eyes
 	for (auto animal : mInventory)
 	{
 		totalEyes += animal->NumEyes();

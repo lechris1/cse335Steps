@@ -1,8 +1,8 @@
 /**
- * \file Cow.cpp
- *
- * \author Christopher Le
- */
+* \file Cow.cpp
+*
+* \author Christopher Le
+*/
 
 #include "stdafx.h"
 #include <iostream>
@@ -128,6 +128,6 @@ void CCow::DisplayAnimal()
 */
 int CCow::NumEyes()
 {
-	int numberOfEyes = 2;
-	return numberOfEyes;
+	const int NumberOfEyes = 2;
+	return NumberOfEyes;
 }

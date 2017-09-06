@@ -50,6 +50,6 @@ void CChicken::DisplayAnimal()
 */
 int CChicken::NumEyes()
 {
-	int numberOfEyes = 2;
-	return numberOfEyes;
+	const int NumberOfEyes = 2;
+	return NumberOfEyes;
 }
